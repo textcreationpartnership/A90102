@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copy of a letter sent from Doe Castle in Ireland, from an Irish rebell, to Dunkerke. And from thence sent to London, by a well-wisher to the advancement of the Protestant religion. As also a copy of the league which the captaines of London-Derry have entred into, for the keeping thereof, and the county adjoyning.</title>
+            <author>Ocane, Donell.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90102</idno>
+            <idno type="STC">Wing O123L</idno>
+            <idno type="STC">Thomason E84_46</idno>
+            <idno type="STC">ESTC R212803</idno>
+            <idno type="EEBO-CITATION">99871371</idno>
+            <idno type="PROQUEST">99871371</idno>
+            <idno type="VID">123781</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90102)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123781)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E84[46])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copy of a letter sent from Doe Castle in Ireland, from an Irish rebell, to Dunkerke. And from thence sent to London, by a well-wisher to the advancement of the Protestant religion. As also a copy of the league which the captaines of London-Derry have entred into, for the keeping thereof, and the county adjoyning.</title>
+                  <author>Ocane, Donell.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Hope,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An Irish rebell = Donell Ocane, who signed the letter, page 2.</note>
+                  <note>Annotation on Thomason copy: "Jan 12, 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123781:1" rendition="simple:additions"/>
+            <p>A TRVE COPY OF A LETTER Sent from DOE Caſtle in <hi>Ireland,</hi> from an Iriſh Rebell, to <hi>DVNKERKE.</hi>
+            </p>
+            <p>And from thence ſent to <hi>London,</hi> by a well-wiſher to the advancement of the Proteſtant Religion.</p>
+            <p>As alſo a Copy of the League which the Captaines of <hi>London-Derry</hi> have entred into, for the keeping thereof, and the County adjoyning.</p>
+            <p>
+               <add>Jan: 12</add> 
+               <hi>LONDON,</hi> Printed for <hi>William Hope.</hi> 1643. <add>1642</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:123781:2"/>
+            <pb n="1" facs="tcp:123781:2"/>
+            <head>To my loving Coſin Cap<g ref="char:EOLhyphen"/>taine <hi>Donothy Ocane,</hi> in <hi>D<g ref="char:V">Ʋ</g>NKERKE.</hi>
+            </head>
+            <opener>
+               <salute>Loving Coſin,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y former Letter about foure moneths ſince unto you informed you of the paſſages in theſe parts, but doubting it came not to your hand in re<g ref="char:EOLhyphen"/>ſpect of the times, I have here writ you the briefe of the ſame: the Captaines of <hi>London-derry</hi> are entred in a League for defence of the City and Country adjoyning, it is the truth as neare as I could attaine by my beſt intelligence from thence, and I feare will prove the moſt materiall peece againſt our deſigne and cauſe in theſe parts, their Companies being as valiant as any I can heare of in the Kingdome, and is ſtill upon ſervice with the Regiments, and oftentimes a<g ref="char:EOLhyphen"/>broad by themſelves in the County of <hi>London-derry,</hi> and hath annoyed my Coſin Collonell <hi>Shane Ocane</hi> very much, and doth keepe in <hi>Miſhowne</hi> that they cannot do as they would, Captaine <hi>Lawſon</hi> and his Company hath beene ſeverall times in our Country, and hath done us much harme: he hath our Coſin Captaine <hi>Ro. Rout Ocane</hi> priſoner in <hi>Derry,</hi> he entred the Caſtle of <hi>Strabane,</hi> and killed our good friend Captaine <hi>Shane, Mac Chinee,</hi> the next morning after our Co<g ref="char:EOLhyphen"/>ſin
+<pb n="2" facs="tcp:123781:3"/>Sir <hi>Philemy O Neale,</hi> left it unto Captaine <hi>Shane</hi> to ke<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, and one hundred of our men in it, and moſt of them all <gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>d by the Regiments that ſame day, and the <hi>Derry</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at wh<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h time our Coſin tooke the Lady of <hi>Strabane</hi> with him: I wrote to you before that we might have ſtopped Captaine <hi>Lawſon</hi> his journey when he came firſt from <hi>Liſnagarry,</hi> about the laſt of November through our Country, and ſpoke then with our Coſin Collonell <hi>Shane Ocane,</hi> and was but three horſe and himſelfe at <hi>Muffe</hi> upon the way, and now ſince, we heare he left behind him a Foote company, and a troope of Horſe, and was the firſt in thoſe parts that oppoſed our Coſin Sir <hi>Con Mac Ginis</hi> of entering <hi>Liſnagarry,</hi> when the Lord <hi>Cono<g ref="char:EOLhyphen"/>way</hi> his Troope of Horſe, and al the townes people left it, and the Country about, and but for him we had had <hi>Balfaſt,</hi> and moſt of thoſe parts in poſſeſſion; we did little dreame any ſuch action had beene in him, if we had, we would have cut him ſhort of his journey, but now no remedy: We have burnt moſt of the Country about, onely <hi>Tirconell</hi> doth us much miſchiefe, our Coſin <hi>Owen Mac Cart</hi> is landed here at <hi>Doe,</hi> and hath taken a Puritan Barke with Armes, we are glad of his Arrivall.</p>
+            <p>As alſo of the troubles in <hi>England,</hi> I hope we ſhall ſee our deſires upon our Enemies if <hi>Englands</hi> troubles continue, and be poſſeſt of all our owne Lands, we expect your aſſiſtance of Armes and Ammunition; and that all our Countrymen will come and aſſiſt us. I pray you write me all the newes from thence, by <hi>Watterford,</hi> or any way you can, it will come to my hand, in reſpect we are Maſters of the Fields. Commend me to all our Friends. I reſt</p>
+            <closer>
+               <signed>Your loving Coſin, <hi>DONELL OCANE.</hi>
+               </signed>
+               <dateline>From <hi>Doe</hi> Caſtle <date>this firſt of Auguſt, 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="document">
+            <pb n="3" facs="tcp:123781:3"/>
+            <head>THE League of the Captaines of <hi>London-Derry,</hi> for the keeping thereof, and Country adjoyning.</head>
+            <p>FIRST, <seg rend="decorInit">I</seg>T is concluded by us whoſe names are ſub<g ref="char:EOLhyphen"/>ſcribed, that we will from this time for<g ref="char:EOLhyphen"/>ward ſtand together for the ſafe keeping of this City, of <hi>Londonderry,</hi> and Country adjoyning, and be helpfull in all things con<g ref="char:EOLhyphen"/>cerning the ſame.</p>
+            <p>Secondly, It is agreed that on the mor<g ref="char:EOLhyphen"/>row morning we will all joyne together with a competent number of our men, to expell all ſuch <hi>Iriſh</hi> out of the City, as wee ſhall conceive to be needfull, for the ſafety of this City.</p>
+            <p>Thirdly, That after this is done, that a Proclamation be made that no man or woman, ſo expelled the City, ſhall upon paine of death returne unto this City, or make their abode within two miles of the ſame.</p>
+            <p>Fourthly, That the morrow morning, we take the adviſe of Sir <hi>John <g ref="char:V">Ʋ</g>aughan,</hi> and Captaine <hi>Henry <g ref="char:V">Ʋ</g>aughan,</hi> we ſurvey the Suburbs of this City, and conclude what houſes are to be pulled downe and what Gardens and Orchards to be cut for annoying the enemies approach, and that the ſame be ſpee<g ref="char:EOLhyphen"/>dily put in execution.</p>
+            <p>
+               <pb n="4" facs="tcp:123781:4"/>
+Fifthly, That forty men be ſpared every watch night to guard the Ordnance, and the gates the next day, that is, twen<g ref="char:EOLhyphen"/>ty men of the maine guard, and twenty men of the by guard, out of the two hundred watches every night.</p>
+            <p>Sixthly, It is thought fit all our Companies be drawne forth into the fields, and that the Captaines and Officers ſhall take a Voluntary oath to be true to the King and State, and to keep the City to the expence of his life, and to leave it to the reſt of the companies to doe the like if they pleaſe.</p>
+            <div type="part">
+               <head>The diviſion of the Walls for Each Captaines quarter to make good.</head>
+               <p>Seventhly, Captaine <hi>Pitts</hi> to make good the Kings Bul<g ref="char:EOLhyphen"/>warke to the Ferrigate.</p>
+               <p>Eighthly, Captaine <hi>Thornton</hi> from the Ferrigate to Maſter <hi>Wabions</hi> Bulwarke, and they two to make good the Ferrigate.</p>
+               <p>Ninthly, Captaine <hi>Kilner</hi> from Maſter <hi>Wabions</hi> Bulwarke to <hi>Chicheſters</hi> Bulwarke, and make good the Shipkeygate.</p>
+               <p>Tenthly, Captaine <hi>Finch,</hi> from the end of <hi>Chicheſter</hi> Bul<g ref="char:EOLhyphen"/>warke to the Butcherſgate.</p>
+               <p>Eleventhly, Captaine <hi>Osbourne</hi> from the end of <hi>Chicheſter</hi> Bulwarke to the Butcherſgate.</p>
+               <p>Twelfthly, Captaine <hi>Lawſon</hi> to make good the Princes Bulwarke, and the Biſhops gate, to the Kings Bulwarke.</p>
+               <p n="13">13. Who ever hath the Towne guard Captaine <hi>Lawſon</hi> is to make good his quarter, and the Captaine of the Townes guard, to make good Captaine <hi>Lawſons</hi> quarter.</p>
+               <p n="14">14. Sir <hi>John <g ref="char:V">Ʋ</g>aughan,</hi> and Sir <hi>Robert Stewart,</hi> to make good the maine guard, and all inhabitants, or reſidents within the ſaid City, not under the Captaines, Commands to repair to the maine guard, for the better ſtrengthening thereof and iſſu<g ref="char:EOLhyphen"/>ing
+<pb n="5" facs="tcp:123781:4"/>of ſupplies as occaſion ſhall require.</p>
+               <p n="15">15. All women and Children, to keep within doores, and hang out lights in their ſeverall houſes.</p>
+               <p n="16">16. Every Captaine to allow ſo many men to the Cano<g ref="char:EOLhyphen"/>neeres as ſhall be requiſite, and to give them their names the morrow morning.</p>
+               <p n="17">17. Every Captaine to take the overfight of his owne quar<g ref="char:EOLhyphen"/>ter, for the repairing of the defects of their ſeverall quarters, or other fortifications, with the Gabions for the Cannoneers, which is to be done at the generall charge.</p>
+               <list>
+                  <head>The Names of the Captaines.</head>
+                  <item>Robert Thornton,</item>
+                  <item>Simon Pits,</item>
+                  <item>Henry Finch.</item>
+                  <item>Henry Osburne,</item>
+                  <item>John Kilmer,</item>
+                  <item>Robert Lawſon,</item>
+                  <item>Hu. Finch.</item>
+               </list>
+               <p>Since the Honourable Citie of <hi>London</hi> hath ſent us fifteene peeces of Ordnance, and foure we had before, in all nineteene peeces, for which amongſt other their goodneſſe towards us, wee pray the Lord reward them, and preſerve them, and con<g ref="char:EOLhyphen"/>tinue his mercie with them, and divert his judgements in theſe evill times from them, that it may ſtill continue a City flowing with plenty for ever.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
